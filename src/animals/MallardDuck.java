@@ -1,3 +1,5 @@
+package animals;
+
 import animals.Quackable;
 
 public class MallardDuck implements Quackable {
